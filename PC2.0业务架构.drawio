@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T04:33:33.441Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Y1_F9pIxpO_EtIs7K887" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T04:33:45.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bgaAksozPHPAdMRc_dmo" version="24.6.5" type="github">
   <diagram name="第 1 页" id="JwEo4ZOWfjB8EyRa8ezt">
-    <mxGraphModel dx="1026" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-7" value="咖啡生活馆" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="849.5" y="150" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pvQKCGcLA8fGIk94UltW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l0JusLFjUwzGI8Q3Fxrc-8" target="pvQKCGcLA8fGIk94UltW-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-8" value="卡券售卖" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1089.5" y="150" width="100" height="35" as="geometry" />
@@ -393,6 +396,9 @@
         </mxCell>
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-147" value="组织区域" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="1047.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pvQKCGcLA8fGIk94UltW-1" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1259.5" y="137.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WG4EHX0ndUumK5OzvKl6-1" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="839.5" y="22.5" width="120" height="60" as="geometry" />
