@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T11:10:43.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dFm06Bt81f6XmYbRdgjK" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T11:11:49.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zPOSzSaEzwUcZsG_nm5I" version="24.6.5" type="github">
   <diagram name="第 1 页" id="JwEo4ZOWfjB8EyRa8ezt">
     <mxGraphModel dx="1434" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-42" value="EC菜单管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="417" y="292" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-43" value="上新管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-43" value="商品上新" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="139" y="522.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-44" value="渠道商品管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
