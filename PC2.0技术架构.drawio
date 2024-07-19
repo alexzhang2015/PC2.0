@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T03:29:37.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uBR7xr1YboGrsWStFg9o" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T03:35:06.666Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="idNABCOvHYwhziWtG9fR" version="24.7.1" type="github">
   <diagram name="第 1 页" id="tmOE7NUKMIHg2Yb3rgT3">
     <mxGraphModel dx="1026" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,20 +16,11 @@
         <mxCell id="Do43LteANP22lVTqNA3v-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="540" width="860" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Do43LteANP22lVTqNA3v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Do43LteANP22lVTqNA3v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="60" y="760" width="1010" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Do43LteANP22lVTqNA3v-16" value="RabbitMQ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="795" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Do43LteANP22lVTqNA3v-17" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="795" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Do43LteANP22lVTqNA3v-18" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="795" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Do43LteANP22lVTqNA3v-19" value="ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="795" width="170" height="60" as="geometry" />
+        <mxCell id="Do43LteANP22lVTqNA3v-16" value="veStack K8S" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="795" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Do43LteANP22lVTqNA3v-20" value="商品运营" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="280" width="100" height="30" as="geometry" />
@@ -246,6 +237,18 @@
         </mxCell>
         <mxCell id="GdEug8Yf5Uy-yWhFGKHU-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;业务接入服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="215" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GdEug8Yf5Uy-yWhFGKHU-8" value="RabbitMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="795" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GdEug8Yf5Uy-yWhFGKHU-9" value="Redis Cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="795" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GdEug8Yf5Uy-yWhFGKHU-10" value="Mysql Group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="795" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GdEug8Yf5Uy-yWhFGKHU-11" value="ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="795" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
