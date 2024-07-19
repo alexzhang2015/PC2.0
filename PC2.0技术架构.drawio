@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T04:08:30.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2KYQ99pocLQvqrs-6X-a" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T05:09:13.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VB0xnfDc887-RWuHcswB" version="24.7.1" type="github">
   <diagram name="第 1 页" id="tmOE7NUKMIHg2Yb3rgT3">
-    <mxGraphModel dx="1283" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,25 +148,25 @@
         <mxCell id="LtyICD8R8VulGxjnEohn-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="574" width="170" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="LtyICD8R8VulGxjnEohn-5" value="price-center" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;dashed=1;" parent="1" vertex="1">
+        <mxCell id="LtyICD8R8VulGxjnEohn-5" value="价格管理&lt;br&gt;price-center" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="605" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LtyICD8R8VulGxjnEohn-6" value="price-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;dashed=1;" parent="1" vertex="1">
+        <mxCell id="LtyICD8R8VulGxjnEohn-6" value="价格查询&lt;br&gt;price-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="659" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtyICD8R8VulGxjnEohn-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="574" width="300" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="LtyICD8R8VulGxjnEohn-7" value="product-openapi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
+        <mxCell id="LtyICD8R8VulGxjnEohn-7" value="商品开放平台&lt;br&gt;product-openapi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="605" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LtyICD8R8VulGxjnEohn-8" value="product-comsumer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LtyICD8R8VulGxjnEohn-8" value="消息消费&lt;br&gt;product-comsumer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="605" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LtyICD8R8VulGxjnEohn-9" value="product-center-task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LtyICD8R8VulGxjnEohn-9" value="定时任务&lt;br&gt;product-center-task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="659" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LtyICD8R8VulGxjnEohn-10" value="safeguard-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
+        <mxCell id="LtyICD8R8VulGxjnEohn-10" value="业务核对中心&lt;br&gt;product-check-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#d79b00;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="659" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtyICD8R8VulGxjnEohn-14" value="菜单商品查询&lt;br&gt;product-center-api" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
