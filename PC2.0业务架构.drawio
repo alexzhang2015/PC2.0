@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T09:43:08.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZXj0caOKcjMOk8JFzm_u" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T09:46:57.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XAB_KT7cCHJb_I0pesJ8" version="24.7.1" type="github">
   <diagram name="第 1 页" id="JwEo4ZOWfjB8EyRa8ezt">
     <mxGraphModel dx="1026" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
         <mxCell id="tdg6JYN3YG7xBNc5__Ap-73" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="161.99" y="589" width="369.13" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="tdg6JYN3YG7xBNc5__Ap-74" value="商品发布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tdg6JYN3YG7xBNc5__Ap-74" value="商品创建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="146.88" y="595" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tdg6JYN3YG7xBNc5__Ap-75" value="SPU建立" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
