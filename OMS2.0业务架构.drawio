@@ -534,6 +534,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-1" value="外部依赖" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-1120" width="200" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-11" value="Digital" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-964" width="160" height="474" as="geometry" />
+        </mxCell>
         <mxCell id="NhMzca9FZO1BSqVshYP4-11" value="业务产品" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#ffe6cc;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-760" y="-1120" width="900" height="220" as="geometry" />
         </mxCell>
@@ -591,56 +597,98 @@
         <mxCell id="dJlYa5hih9iHt0XhzM0q-1" value="星巴克APP&lt;div&gt;EC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="-1095" width="70" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-1" value="小程序接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-1" value="小程序接入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-605" y="-840" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-2" value="MOP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-2" value="MOP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-605" y="-795" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-3" value="公域开放平台接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-3" value="公域开放平台接入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-515" y="-840" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-4" value="MOD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-4" value="MOD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-515" y="-795" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-6" value="小程序接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-6" value="小程序接入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-335" y="-840" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-7" value="MOP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-7" value="MOP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-335" y="-795" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-8" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-8" value="..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-245" y="-840" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-9" value="MOD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-9" value="MOD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-245" y="-795" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-11" value="公域开放平台接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-11" value="公域开放平台接入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-75" y="-840" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-12" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-12" value="..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="15" y="-840" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-13" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-13" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-75" y="-795" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-14" value="B2B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-14" value="B2B" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="15" y="-795" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-15" value="微信小程序&lt;div&gt;EC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-15" value="微信小程序&lt;div&gt;EC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="-1095" width="70" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-16" value="星巴克APP&lt;div&gt;DP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-16" value="星巴克APP&lt;div&gt;DP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="-1095" width="70" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-18" value="星巴克APP&lt;div&gt;O2O随单购DP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-18" value="星巴克APP&lt;div&gt;O2O随单购DP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="-1095" width="70" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-19" value="抖音APP&lt;div&gt;DP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-19" value="抖音APP&lt;div&gt;DP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1095" width="70" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9NseVw_Q2jVM1hPVNOJz-21" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9NseVw_Q2jVM1hPVNOJz-21" value="..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="-1095" width="70" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-2" value="支付&lt;div&gt;UPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-931.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-3" value="配送&lt;div&gt;DDA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-891.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-4" value="物流&lt;div&gt;FS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-851.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-5" value="财务/对账&lt;div&gt;OC/RAS/URP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="-811.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-6" value="商品&lt;div&gt;PC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-771.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-7" value="营销&lt;div&gt;PE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-731.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-8" value="门店&lt;div&gt;SSE/SC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-691.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-9" value="用户&lt;div&gt;CRM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-651.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-10" value="卡券资产&lt;div&gt;CAC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="-611.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-12" value="履约&lt;div&gt;FS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="-571.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-14" value="Retail" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1080" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-15" value="&lt;div&gt;门店pos&lt;/div&gt;&lt;div&gt;POS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="-1047.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-16" value="&lt;div&gt;门店papp&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="-1007.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-17" value="客服&lt;div&gt;CCC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="-530" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
