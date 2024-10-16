@@ -247,7 +247,7 @@
         <mxCell id="UXn8RysOJU6ISpbpQMmh-161" value="慢必赔" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="863" y="-654" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UXn8RysOJU6ISpbpQMmh-162" value="订单积星" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UXn8RysOJU6ISpbpQMmh-162" value="卡券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="863" y="-613" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LjXnA-BEZ40m3HbgkDNa-4" value="营销&lt;span style=&quot;background-color: initial;&quot;&gt;分摊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -346,7 +346,7 @@
         <mxCell id="LjXnA-BEZ40m3HbgkDNa-52" value="慢必赔" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1047" y="-654" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LjXnA-BEZ40m3HbgkDNa-53" value="订单积星" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LjXnA-BEZ40m3HbgkDNa-53" value="卡券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1047" y="-613" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LjXnA-BEZ40m3HbgkDNa-54" value="..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -391,7 +391,7 @@
         <mxCell id="QIBOZXKNHfg8SUblGaOP-19" value="拼单购物车" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-21" value="随单&lt;span style=&quot;background-color: initial;&quot;&gt;服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-21" value="随单&lt;span style=&quot;background-color: initial;&quot;&gt;权益&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIBOZXKNHfg8SUblGaOP-23" value="创单资源事物管理能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
@@ -442,7 +442,7 @@
         <mxCell id="QIBOZXKNHfg8SUblGaOP-45" value="资源回滚" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="292.25" y="-340" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-46" value="订单完成&lt;div&gt;服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-46" value="订单完成&lt;div&gt;权益&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-380" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIBOZXKNHfg8SUblGaOP-47" value="pos协调" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
