@@ -534,7 +534,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jHuICYj5iH5u7Y3OP_tv-1" value="外部依赖" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="jHuICYj5iH5u7Y3OP_tv-1" value="外部依赖" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="-1120" width="200" height="640" as="geometry" />
         </mxCell>
         <mxCell id="jHuICYj5iH5u7Y3OP_tv-11" value="Digital" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
