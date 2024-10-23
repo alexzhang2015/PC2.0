@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.1" pages="5">
   <diagram name="业务架构" id="zM9QdIvhza68kWxz84_e">
-    <mxGraphModel dx="2093" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-5" value="订单正向" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;fillColor=#F0F4FC;strokeColor=#A881BA;fillStyle=auto;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="-480" width="850" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="WUSkEXFHbogbXaf83fxj-7" value="订单协同管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="539.5" y="-450" width="180.5" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="LjXnA-BEZ40m3HbgkDNa-24" value="购物车去结算" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="-200" y="-1120" width="430" height="60" as="geometry" />
         </mxCell>
@@ -352,17 +358,11 @@
         <mxCell id="QIBOZXKNHfg8SUblGaOP-4" value="取餐口令" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="-879" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-5" value="订单" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;fillColor=#F0F4FC;strokeColor=#A881BA;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="-480" width="760" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="QIBOZXKNHfg8SUblGaOP-9" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;fillColor=#F0F4FC;strokeColor=#9673a6;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="672" y="-480" width="120" height="190" as="geometry" />
+          <mxGeometry x="977" y="-480" width="185" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-10" value="订单售后" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;fillColor=#f0f4fc;strokeColor=#A881BA;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="952" y="-480" width="210" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-11" value="订单推门店" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;fillColor=#F0F4FC;strokeColor=#A881BA;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="813" y="-480" width="120" height="190" as="geometry" />
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-10" value="订单逆向" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;fillColor=#f0f4fc;strokeColor=#A881BA;fillStyle=auto;" parent="1" vertex="1">
+          <mxGeometry x="765" y="-480" width="185" height="190" as="geometry" />
         </mxCell>
         <mxCell id="QIBOZXKNHfg8SUblGaOP-13" value="购物车隔离" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-420" width="70" height="30" as="geometry" />
@@ -383,7 +383,7 @@
           <mxGeometry x="-460" y="-380" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIBOZXKNHfg8SUblGaOP-21" value="随单&lt;span style=&quot;background-color: initial;&quot;&gt;权益&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="702" y="-420" width="70" height="30" as="geometry" />
+          <mxGeometry x="989.5" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIBOZXKNHfg8SUblGaOP-23" value="创单资源事物管理能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="264.5" y="-450" width="125.5" height="150" as="geometry" />
@@ -433,20 +433,17 @@
         <mxCell id="QIBOZXKNHfg8SUblGaOP-45" value="资源回滚" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="292.25" y="-340" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-46" value="订单完成&lt;div&gt;权益&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="702" y="-380" width="70" height="30" as="geometry" />
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-46" value="&lt;div&gt;下单后权益&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1079.5" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-47" value="pos入机协调" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="843" y="-420" width="70" height="30" as="geometry" />
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-49" value="&lt;span style=&quot;background-color: initial;&quot;&gt;POS小票&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-49" value="小票管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="843" y="-380" width="70" height="30" as="geometry" />
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-50" value="逆向关联" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="778" y="-380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-50" value="整单退" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="987" y="-380" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-51" value="部分退" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1072" y="-380" width="70" height="30" as="geometry" />
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-51" value="逆向规则&lt;div&gt;定制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="863" y="-380" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIBOZXKNHfg8SUblGaOP-53" value="订单查询能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="419.5" y="-450" width="100.5" height="150" as="geometry" />
@@ -457,14 +454,11 @@
         <mxCell id="QIBOZXKNHfg8SUblGaOP-55" value="B端&lt;div&gt;订单查询&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="-380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-56" value="限购计数" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="702" y="-340" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="QIBOZXKNHfg8SUblGaOP-58" value="逆向订单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="987" y="-420" width="70" height="30" as="geometry" />
+          <mxGeometry x="778" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIBOZXKNHfg8SUblGaOP-59" value="逆向单规则" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1072" y="-420" width="70" height="30" as="geometry" />
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-59" value="逆向服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="863" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QIBOZXKNHfg8SUblGaOP-61" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -517,14 +511,23 @@
         <mxCell id="WUSkEXFHbogbXaf83fxj-6" value="公域同步" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="-613" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WUSkEXFHbogbXaf83fxj-7" value="订单场景能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="539.5" y="-450" width="100.5" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="WUSkEXFHbogbXaf83fxj-8" value="当日预约单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WUSkEXFHbogbXaf83fxj-9" value="隔日预约单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="-380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QIBOZXKNHfg8SUblGaOP-47" value="POS入机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b85QOnop1YbzsjDL6uc7-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;服务管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b85QOnop1YbzsjDL6uc7-2" value="服务透出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="989.5" y="-380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b85QOnop1YbzsjDL6uc7-3" value="服务履行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1079.5" y="-380" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
