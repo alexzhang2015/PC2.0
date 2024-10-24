@@ -552,7 +552,7 @@
         <mxCell id="qh1C8p4b0JO5ChsGP-An-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Beverage Transaction&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-1470" y="-890" width="420" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pGpv9Ny_UoRDuoTsTlZ3-1" value="&amp;nbsp; 域能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="pGpv9Ny_UoRDuoTsTlZ3-1" value="&amp;nbsp; 域服务" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="-520" width="1590" height="230" as="geometry" />
         </mxCell>
         <mxCell id="pGpv9Ny_UoRDuoTsTlZ3-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;OMS 2.0&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
@@ -802,7 +802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qPrCd4M5PVjgpqGWgaMx" name="现状技术架构">
-    <mxGraphModel dx="3328" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
