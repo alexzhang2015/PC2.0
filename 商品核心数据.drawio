@@ -131,7 +131,7 @@
           <mxGeometry x="760" y="330" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dU5oYRAke7bi80Ur_Mct-64" value="库存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#330000;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="647" y="390" width="90" height="40" as="geometry" />
+          <mxGeometry x="760" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dU5oYRAke7bi80Ur_Mct-65" value="商品文案信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="918.5" y="210" width="90" height="40" as="geometry" />
@@ -201,6 +201,9 @@
         </mxCell>
         <mxCell id="dU5oYRAke7bi80Ur_Mct-90" value="菜单命名&amp;amp;排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1422" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kRfiSciBcvB_tHVXzIQT-1" value="上下架状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="647" y="390" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
