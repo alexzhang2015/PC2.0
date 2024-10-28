@@ -660,13 +660,13 @@
         <mxCell id="wqyynOSECbXKmQcOZjUY-15" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;电商导购&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;EC Layout&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-500" y="-781.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wqyynOSECbXKmQcOZjUY-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;O2O购物车&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;O2O Cart&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="wqyynOSECbXKmQcOZjUY-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;O2O购物车&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;O2O Cart&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="-1450" y="-781.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qh1C8p4b0JO5ChsGP-An-2" value="订单卡券协同" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1030" y="-781.5" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qh1C8p4b0JO5ChsGP-An-4" value="&lt;div&gt;电商购物车&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;EC Cart&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="qh1C8p4b0JO5ChsGP-An-4" value="&lt;div&gt;电商购物车&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;EC Cart&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-781.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qh1C8p4b0JO5ChsGP-An-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;电商售后&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;EC Refund&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#CCCCCC;" parent="1" vertex="1">
