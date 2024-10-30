@@ -912,7 +912,7 @@
         <mxCell id="Oczn9_roAR1ud2uO3KVr-211" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-760" y="-707.5" width="520" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="KsenBGeZzeDBdwbnZS7b-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;WSG Transaction&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（用星说）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="Oczn9_roAR1ud2uO3KVr-211" vertex="1">
+        <mxCell id="KsenBGeZzeDBdwbnZS7b-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Gifting Transaction&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（用星说）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="Oczn9_roAR1ud2uO3KVr-211" vertex="1">
           <mxGeometry width="520" height="180" as="geometry" />
         </mxCell>
         <mxCell id="KsenBGeZzeDBdwbnZS7b-4" value="资源位" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-211" vertex="1">
@@ -939,7 +939,7 @@
         <mxCell id="Oczn9_roAR1ud2uO3KVr-212" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1050" y="-710" width="270" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="2cMuJcXEXohuPwvvgH_m-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Space Transaction&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（门店空间预约）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="Oczn9_roAR1ud2uO3KVr-212" vertex="1">
+        <mxCell id="2cMuJcXEXohuPwvvgH_m-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Space Transaction&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（门店线下空间预约）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="Oczn9_roAR1ud2uO3KVr-212" vertex="1">
           <mxGeometry width="270" height="180" as="geometry" />
         </mxCell>
         <mxCell id="2cMuJcXEXohuPwvvgH_m-3" value="&lt;div&gt;活动订单&lt;/div&gt;&lt;div&gt;Moments Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#CCCCCC;" parent="Oczn9_roAR1ud2uO3KVr-212" vertex="1">
