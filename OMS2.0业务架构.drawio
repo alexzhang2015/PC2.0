@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="5">
   <diagram name="业务架构" id="zM9QdIvhza68kWxz84_e">
     <mxGraphModel dx="2261" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -529,47 +529,38 @@
         <mxCell id="b85QOnop1YbzsjDL6uc7-3" value="服务履行" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1079.5" y="-380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-1" value="三方平台渠道订单" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="Iueum-wuMI3loxKWoEkn-1" value="外部订单同步" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="1190" y="-1120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-2" value="渠道接入" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;labelPosition=center;verticalLabelPosition=middle;align=left;spacingRight=0;shadow=0;glass=0;horizontal=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="-1030" width="160" height="470" as="geometry" />
+        <mxCell id="Iueum-wuMI3loxKWoEkn-2" value="三方渠道订单同步" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;labelPosition=center;verticalLabelPosition=middle;align=left;spacingRight=0;shadow=0;glass=0;horizontal=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="-1030" width="160" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-3" value="全渠道接入" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;fillColor=#F0F4FC;strokeColor=#9673a6;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="-480" width="185" height="190" as="geometry" />
+        <mxCell id="Iueum-wuMI3loxKWoEkn-3" value="订单同步" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;fillColor=#F0F4FC;strokeColor=#9673a6;fillStyle=auto;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="-480" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-4" value="渠道适配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iueum-wuMI3loxKWoEkn-4" value="渠道接入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-5" value="门店接单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iueum-wuMI3loxKWoEkn-5" value="渠道订单&lt;div&gt;履约&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="-420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-6" value="门店拒&lt;span style=&quot;background-color: initial;&quot;&gt;单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iueum-wuMI3loxKWoEkn-6" value="渠道&lt;div&gt;信息同步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="-380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-7" value="&lt;div&gt;订单&lt;span style=&quot;background-color: initial;&quot;&gt;同步&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-380" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-8" value="渠道接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iueum-wuMI3loxKWoEkn-8" value="渠道接入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1235" y="-960" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-9" value="平台信息&lt;div&gt;映射转换&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iueum-wuMI3loxKWoEkn-9" value="渠道订单&lt;div&gt;履约&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1235" y="-919" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-10" value="收单&lt;div&gt;规则判定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Iueum-wuMI3loxKWoEkn-10" value="渠道信息&lt;div&gt;同步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1235" y="-879" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-11" value="收单&lt;div&gt;资源核销&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="-839" width="70" height="30" as="geometry" />
+        <mxCell id="cLsak48Dzesz5hb14BlB-1" value="门店POS订单同步" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;labelPosition=center;verticalLabelPosition=middle;align=left;spacingRight=0;shadow=0;glass=0;horizontal=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-720" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-12" value="订单&lt;span style=&quot;background-color: initial;&quot;&gt;同步&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="-800" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-13" value="渠道定制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="-760" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Iueum-wuMI3loxKWoEkn-14" value="渠道定制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="-340" width="70" height="30" as="geometry" />
+        <mxCell id="cLsak48Dzesz5hb14BlB-2" value="订单同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="-655" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
