@@ -988,19 +988,19 @@
           <mxGeometry x="28.043478260869566" y="72.72727272727273" width="373.9130434782609" height="72.72727272727273" as="geometry" />
         </mxCell>
         <mxCell id="Oczn9_roAR1ud2uO3KVr-218" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1420" y="-305" width="1120" height="50" as="geometry" />
+          <mxGeometry x="-1460" y="-305" width="1180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5W8IC3nqLr9qiwr7UM9Z-2" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
-          <mxGeometry width="234.14634146341464" height="50" as="geometry" />
+          <mxGeometry width="246.68989547038322" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5W8IC3nqLr9qiwr7UM9Z-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;ES&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
-          <mxGeometry x="312.1951219512195" width="234.14634146341464" height="50" as="geometry" />
+          <mxGeometry x="328.9198606271777" width="246.68989547038322" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5W8IC3nqLr9qiwr7UM9Z-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;MQ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
-          <mxGeometry x="600.9756097560976" width="234.14634146341464" height="50" as="geometry" />
+          <mxGeometry x="633.1707317073169" width="246.68989547038322" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5W8IC3nqLr9qiwr7UM9Z-5" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
-          <mxGeometry x="885.8536585365853" width="234.14634146341464" height="50" as="geometry" />
+          <mxGeometry x="933.3101045296164" width="246.68989547038322" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Oczn9_roAR1ud2uO3KVr-219" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="-460" width="120" height="30" as="geometry" />
