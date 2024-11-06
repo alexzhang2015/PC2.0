@@ -106,7 +106,7 @@
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="880" width="462" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-127" value="商品分发服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-127" value="渠道分发服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1091.75" y="890" width="81.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-128" value="同步任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -337,7 +337,7 @@
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1630" y="880" width="300" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-133" value="商品OpenAPI开发能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-133" value="商品OpenAPI开放能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1640" y="890" width="127.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-134" value="商品API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -382,7 +382,7 @@
         <mxCell id="TdNIJLCrhDKzRYDCFXjz-53" value="商品技术保障域能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2030.0000000000002" y="890" width="127.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TdNIJLCrhDKzRYDCFXjz-54" value="渠道菜单核对" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TdNIJLCrhDKzRYDCFXjz-54" value="菜单巡检平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2052.25" y="931.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TdNIJLCrhDKzRYDCFXjz-55" value="动态价格监控" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -584,10 +584,10 @@
           <mxGeometry x="1150" y="272.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5u5mV6tgZrQ-dWBbNpjG-18" value="价格管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="706.63" y="272.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="710" y="272" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5u5mV6tgZrQ-dWBbNpjG-19" value="商品管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="324.5" y="272.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="290.38" y="272.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="162.26" y="435" width="398.74" height="170" as="geometry" />
@@ -706,7 +706,7 @@
         <mxCell id="5u5mV6tgZrQ-dWBbNpjG-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="5u5mV6tgZrQ-dWBbNpjG-45" vertex="1">
           <mxGeometry x="6.75" width="290" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-9" value="价格生效任务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5u5mV6tgZrQ-dWBbNpjG-45" vertex="1">
+        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-9" value="价格分发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5u5mV6tgZrQ-dWBbNpjG-45" vertex="1">
           <mxGeometry width="106" height="32.15756679691626" as="geometry" />
         </mxCell>
         <mxCell id="5u5mV6tgZrQ-dWBbNpjG-10" value="价格生效" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-45" vertex="1">
