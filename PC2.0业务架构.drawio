@@ -106,7 +106,7 @@
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="880" width="462" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-127" value="商品分发服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-127" value="渠道分发服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1099.5" y="880" width="81.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0JusLFjUwzGI8Q3Fxrc-128" value="同步任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -325,7 +325,7 @@
         <mxCell id="tdg6JYN3YG7xBNc5__Ap-58" value="新品发布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="149" y="337" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tdg6JYN3YG7xBNc5__Ap-59" value="新品创建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tdg6JYN3YG7xBNc5__Ap-59" value="商品创建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175.88" y="370" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="tdg6JYN3YG7xBNc5__Ap-60" value="商品审核" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
@@ -454,7 +454,7 @@
             <mxPoint x="1949.38" y="219.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TdNIJLCrhDKzRYDCFXjz-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;商品加购&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TdNIJLCrhDKzRYDCFXjz-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;商品选购&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1976.5099999999998" y="195" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TdNIJLCrhDKzRYDCFXjz-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
