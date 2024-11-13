@@ -784,57 +784,57 @@
           <mxGeometry x="17.999999999999996" y="61.5" width="108.00000000000001" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Oczn9_roAR1ud2uO3KVr-216" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-890" y="-1570" width="650" height="160" as="geometry" />
+          <mxGeometry x="-1060" y="-1570" width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pGpv9Ny_UoRDuoTsTlZ3-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="Oczn9_roAR1ud2uO3KVr-216" vertex="1">
-          <mxGeometry width="650" height="160" as="geometry" />
+          <mxGeometry width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pGpv9Ny_UoRDuoTsTlZ3-4" value="下单&lt;div&gt;buy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Oczn9_roAR1ud2uO3KVr-216" vertex="1">
-          <mxGeometry x="34.21052631578947" y="38.5" width="171.05263157894737" height="50" as="geometry" />
+          <mxGeometry x="24.210526315789473" y="38.5" width="121.05263157894737" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pGpv9Ny_UoRDuoTsTlZ3-6" value="正向订单&lt;div&gt;trade order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Oczn9_roAR1ud2uO3KVr-216" vertex="1">
-          <mxGeometry x="34.21052631578947" y="98.5" width="171.05263157894737" height="50" as="geometry" />
+          <mxGeometry x="24.210526315789473" y="98.5" width="121.05263157894737" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pGpv9Ny_UoRDuoTsTlZ3-8" value="售后&lt;div&gt;refund&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Oczn9_roAR1ud2uO3KVr-216" vertex="1">
-          <mxGeometry x="239.47368421052633" y="38.5" width="171.05263157894737" height="50" as="geometry" />
+          <mxGeometry x="169.47368421052633" y="38.5" width="121.05263157894737" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pGpv9Ny_UoRDuoTsTlZ3-9" value="逆向订单&lt;div&gt;refund order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Oczn9_roAR1ud2uO3KVr-216" vertex="1">
-          <mxGeometry x="239.47368421052633" y="98.5" width="171.05263157894737" height="50" as="geometry" />
+          <mxGeometry x="169.47368421052633" y="98.5" width="121.05263157894737" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Oczn9_roAR1ud2uO3KVr-214" value="订单渠道接入&lt;div&gt;order sync&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Oczn9_roAR1ud2uO3KVr-216" vertex="1">
-          <mxGeometry x="444.7368421052631" y="38.5" width="171.05263157894737" height="50" as="geometry" />
+        <mxCell id="Oczn9_roAR1ud2uO3KVr-214" value="渠道订单&lt;div&gt;3PP plugin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Oczn9_roAR1ud2uO3KVr-216" vertex="1">
+          <mxGeometry x="314.7368421052631" y="38.5" width="121.05263157894737" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Oczn9_roAR1ud2uO3KVr-215" value="订单服务标&lt;div&gt;order attribute&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Oczn9_roAR1ud2uO3KVr-216" vertex="1">
-          <mxGeometry x="444.7368421052631" y="98.5" width="171.05263157894737" height="50" as="geometry" />
+          <mxGeometry x="314.7368421052631" y="98.5" width="121.05263157894737" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Oczn9_roAR1ud2uO3KVr-217" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1470" y="-1570" width="540" height="160" as="geometry" />
+          <mxGeometry x="-1470" y="-1570" width="390" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_OBZ-dlgNB9marMLqAcH-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;购物车&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="Oczn9_roAR1ud2uO3KVr-217" vertex="1">
-          <mxGeometry width="540" height="160" as="geometry" />
+          <mxGeometry width="390" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_OBZ-dlgNB9marMLqAcH-2" value="购物车商品&lt;div&gt;cart product&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Oczn9_roAR1ud2uO3KVr-217" vertex="1">
-          <mxGeometry x="30" y="60" width="150" height="72.73" as="geometry" />
+          <mxGeometry x="21.666666666666668" y="60" width="108.33333333333333" height="72.73" as="geometry" />
         </mxCell>
         <mxCell id="JAXH8Vxar2Qe9joAOtJ2-2" value="购物车商品分组&lt;div&gt;cart product group&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Oczn9_roAR1ud2uO3KVr-217">
-          <mxGeometry x="191.3" y="60" width="157.39" height="72.73" as="geometry" />
+          <mxGeometry x="138.16111111111113" y="60" width="113.67055555555554" height="72.73" as="geometry" />
         </mxCell>
         <mxCell id="JAXH8Vxar2Qe9joAOtJ2-3" value="购物车服务标&lt;div&gt;cart attribute&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Oczn9_roAR1ud2uO3KVr-217">
-          <mxGeometry x="360" y="60" width="157.39" height="72.73" as="geometry" />
+          <mxGeometry x="260" y="60" width="113.67055555555554" height="72.73" as="geometry" />
         </mxCell>
         <mxCell id="Oczn9_roAR1ud2uO3KVr-218" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1470" y="-1380" width="1230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5W8IC3nqLr9qiwr7UM9Z-2" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
+        <mxCell id="5W8IC3nqLr9qiwr7UM9Z-2" value="容器&lt;div&gt;veStack&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
           <mxGeometry width="257.14285714285705" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5W8IC3nqLr9qiwr7UM9Z-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;ES&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
+        <mxCell id="5W8IC3nqLr9qiwr7UM9Z-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;存储&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;mysql | es | redis&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
           <mxGeometry x="342.85714285714283" width="257.14285714285705" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5W8IC3nqLr9qiwr7UM9Z-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;MQ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
+        <mxCell id="5W8IC3nqLr9qiwr7UM9Z-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;消息中间件&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;rabbitMQ | kafka&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
           <mxGeometry x="659.9999999999999" width="257.14285714285705" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5W8IC3nqLr9qiwr7UM9Z-5" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
+        <mxCell id="5W8IC3nqLr9qiwr7UM9Z-5" value="OLAP&lt;div&gt;ClickHouse&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="Oczn9_roAR1ud2uO3KVr-218" vertex="1">
           <mxGeometry x="972.8571428571424" width="257.14285714285705" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yk1sNpVB5xwdM2e-m-_z-1" value="Digital Portal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
@@ -1010,6 +1010,24 @@
         </mxCell>
         <mxCell id="GFMh5goxTXau76WkQucA-3" value="订单售后" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="GFMh5goxTXau76WkQucA-5" vertex="1">
           <mxGeometry x="780" y="79.99736842105267" width="60" height="42.10526315789473" as="geometry" />
+        </mxCell>
+        <mxCell id="JAXH8Vxar2Qe9joAOtJ2-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-588" y="-1570" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JAXH8Vxar2Qe9joAOtJ2-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;订单渠道接入&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JAXH8Vxar2Qe9joAOtJ2-20">
+          <mxGeometry width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JAXH8Vxar2Qe9joAOtJ2-7" value="渠道收单适配&lt;div&gt;3PP adapter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAXH8Vxar2Qe9joAOtJ2-20">
+          <mxGeometry x="27.313974591651426" y="100" width="136.56987295825772" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JAXH8Vxar2Qe9joAOtJ2-9" value="渠道收单&lt;div&gt;3pp gateway&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAXH8Vxar2Qe9joAOtJ2-20">
+          <mxGeometry x="27.313339382940168" y="38.5" width="136.56987295825772" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JAXH8Vxar2Qe9joAOtJ2-11" value="订单开放平台&lt;br&gt;&lt;div&gt;open api&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAXH8Vxar2Qe9joAOtJ2-20">
+          <mxGeometry x="191.19718693284926" y="38.5" width="136.56987295825772" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JAXH8Vxar2Qe9joAOtJ2-19" value="渠道订单插件管理&lt;div&gt;3PP plugin Admin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JAXH8Vxar2Qe9joAOtJ2-20">
+          <mxGeometry x="191.19845735027207" y="100" width="136.56987295825772" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
