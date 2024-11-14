@@ -1022,7 +1022,7 @@
         <mxCell id="M9OIYU-JXvS8CcKXe1WX-4" value="外部依赖" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-220" y="-2280" width="200" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="M9OIYU-JXvS8CcKXe1WX-5" value="Digital C" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
+        <mxCell id="M9OIYU-JXvS8CcKXe1WX-5" value="Digital C" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-199.5" y="-2067.5" width="160" height="557.5" as="geometry" />
         </mxCell>
         <mxCell id="M9OIYU-JXvS8CcKXe1WX-6" value="支付&lt;div&gt;UPP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1055,7 +1055,7 @@
         <mxCell id="M9OIYU-JXvS8CcKXe1WX-15" value="履约&lt;div&gt;FS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180.5" y="-1592.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M9OIYU-JXvS8CcKXe1WX-16" value="Retail" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
+        <mxCell id="M9OIYU-JXvS8CcKXe1WX-16" value="Retail" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-200.5" y="-2252.5" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="M9OIYU-JXvS8CcKXe1WX-17" value="&lt;div&gt;门店&lt;span style=&quot;background-color: initial;&quot;&gt;POS&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1067,7 +1067,7 @@
         <mxCell id="M9OIYU-JXvS8CcKXe1WX-22" value="..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-179.5" y="-1550" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M9OIYU-JXvS8CcKXe1WX-88" value="Digital Portal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
+        <mxCell id="M9OIYU-JXvS8CcKXe1WX-88" value="Digital Portal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-200.5" y="-2120" width="160" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="8f_LnkSTXUI4WEsGBcjr-1" value="" style="group" vertex="1" connectable="0" parent="1">
