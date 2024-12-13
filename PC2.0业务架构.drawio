@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="JwEo4ZOWfjB8EyRa8ezt">
-    <mxGraphModel dx="1434" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1710" dy="2134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,111 +469,6 @@
         <mxCell id="TdNIJLCrhDKzRYDCFXjz-76" value="C端商品导购交易流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1540" y="205" width="201.38" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-5" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="947" y="313" width="1844" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="tdg6JYN3YG7xBNc5__Ap-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-5" vertex="1">
-          <mxGeometry x="10" width="540" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="tdg6JYN3YG7xBNc5__Ap-31" value="" style="group" parent="5u5mV6tgZrQ-dWBbNpjG-5" vertex="1" connectable="0">
-          <mxGeometry x="40" y="240.88" width="1824" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="tdg6JYN3YG7xBNc5__Ap-31" vertex="1">
-          <mxGeometry width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-4" value="Gifting菜单管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tdg6JYN3YG7xBNc5__Ap-31" vertex="1">
-          <mxGeometry y="2.5" width="93.62" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-7" value="货架商品管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="tdg6JYN3YG7xBNc5__Ap-31" vertex="1">
-          <mxGeometry x="20" y="40.49999999999994" width="80" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-8" value="标签管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="tdg6JYN3YG7xBNc5__Ap-31" vertex="1">
-          <mxGeometry x="20" y="80.99999999999994" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-9" value="......" style="rounded=1;whiteSpace=wrap;html=1;" parent="tdg6JYN3YG7xBNc5__Ap-31" vertex="1">
-          <mxGeometry x="20" y="128.49999999999994" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="tdg6JYN3YG7xBNc5__Ap-33" value="xx" style="group" parent="5u5mV6tgZrQ-dWBbNpjG-5" vertex="1" connectable="0">
-          <mxGeometry x="180" y="242" width="130.05999999999995" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-5" value="x" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
-          <mxGeometry x="0.05999999999994543" width="130" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-10" value="卡券商品管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
-          <mxGeometry y="2.5" width="93.62" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-11" value="卡券商品映射" style="rounded=1;whiteSpace=wrap;html=1;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
-          <mxGeometry x="29.809999999999945" y="40" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-12" value="商品分类管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
-          <mxGeometry x="28.929999999999836" y="85.5" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="zTJ-ibRRX8hSOmWthj6w-13" value="......" style="rounded=1;whiteSpace=wrap;html=1;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
-          <mxGeometry x="28.929999999999836" y="132.5" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="hDRKQcSBSJwhTMpQUSur-3" value="" style="group" parent="5u5mV6tgZrQ-dWBbNpjG-5" vertex="1" connectable="0">
-          <mxGeometry x="325.99" y="243" width="198" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="hDRKQcSBSJwhTMpQUSur-3" vertex="1">
-          <mxGeometry width="198" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-112" value="到店自取菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDRKQcSBSJwhTMpQUSur-3" vertex="1">
-          <mxGeometry x="15" y="38" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-113" value="快递到家菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDRKQcSBSJwhTMpQUSur-3" vertex="1">
-          <mxGeometry x="108" y="38" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-114" value="菜单分类管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDRKQcSBSJwhTMpQUSur-3" vertex="1">
-          <mxGeometry x="15" y="85" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-115" value="货架商品管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDRKQcSBSJwhTMpQUSur-3" vertex="1">
-          <mxGeometry x="108" y="85" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-123" value="......" style="rounded=1;whiteSpace=wrap;html=1;" parent="hDRKQcSBSJwhTMpQUSur-3" vertex="1">
-          <mxGeometry x="15" y="130.5" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-42" value="EC菜单管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hDRKQcSBSJwhTMpQUSur-3" vertex="1">
-          <mxGeometry x="2" y="8" width="106" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-1" value="" style="group" parent="5u5mV6tgZrQ-dWBbNpjG-5" vertex="1" connectable="0">
-          <mxGeometry x="40" y="15" width="510" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-39" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry width="480" height="203" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-40" value="O2O菜单管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="3" y="2.5" width="106" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-101" value="菜单模板" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="14.5" y="40" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-104" value="门店菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="123" y="40" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-108" value="当日菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="343" y="40" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-109" value="隔日菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="16" y="92" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-111" value="运营规则" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="123" y="92" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="tdg6JYN3YG7xBNc5__Ap-30" value="......" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="123" y="142" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-47" value="渠道菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="233" y="40" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-48" value="菜单同步" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="233" y="92" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-49" value="同步记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
-          <mxGeometry x="343" y="92" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="KMMFDdmvVgSisZTAviBd-1" value="菜单库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5u5mV6tgZrQ-dWBbNpjG-1">
-          <mxGeometry x="16" y="142" width="80" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="5u5mV6tgZrQ-dWBbNpjG-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1294.7500000000002" y="219.38" as="sourcePoint" />
@@ -741,6 +636,102 @@
         </mxCell>
         <mxCell id="UMDt-W8wcCQ3gIK8g-eF-3" value="价格审批" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="706.63" y="1018.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tdg6JYN3YG7xBNc5__Ap-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="957" y="313" width="540" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="tdg6JYN3YG7xBNc5__Ap-33" value="xx" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1127" y="555" width="130.05999999999995" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-5" value="x" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
+          <mxGeometry x="0.05999999999994543" width="130" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-10" value="卡券商品管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
+          <mxGeometry y="2.5" width="93.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-11" value="卡券商品映射" style="rounded=1;whiteSpace=wrap;html=1;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
+          <mxGeometry x="29.809999999999945" y="40" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-12" value="商品分类管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
+          <mxGeometry x="28.929999999999836" y="85.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-13" value="......" style="rounded=1;whiteSpace=wrap;html=1;" parent="tdg6JYN3YG7xBNc5__Ap-33" vertex="1">
+          <mxGeometry x="28.929999999999836" y="132.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-1" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="987" y="328" width="510" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-39" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry width="480" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-40" value="O2O菜单管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="3" y="2.5" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-101" value="菜单模板" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="14.5" y="40" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-104" value="门店菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="123" y="40" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-108" value="当日菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="343" y="40" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-109" value="隔日菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="16" y="92" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-111" value="运营规则" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="123" y="92" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="tdg6JYN3YG7xBNc5__Ap-30" value="......" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="123" y="142" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-47" value="渠道菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="233" y="40" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-48" value="菜单同步" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="233" y="92" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5u5mV6tgZrQ-dWBbNpjG-49" value="同步记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="343" y="92" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KMMFDdmvVgSisZTAviBd-1" value="菜单库存" style="rounded=1;whiteSpace=wrap;html=1;" parent="5u5mV6tgZrQ-dWBbNpjG-1" vertex="1">
+          <mxGeometry x="16" y="142" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1272.99" y="556" width="198" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-112" value="到店自取菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1287.99" y="594" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-113" value="快递到家菜单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1380.99" y="594" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-114" value="菜单分类管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1287.99" y="641" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-115" value="货架商品管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1380.99" y="641" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-123" value="......" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1287.99" y="686.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l0JusLFjUwzGI8Q3Fxrc-42" value="EC菜单管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1274.99" y="564" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="987" y="553.88" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-4" value="Gifting菜单管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="987" y="556.38" width="93.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-7" value="货架商品管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1007" y="594.3799999999999" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-8" value="标签管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1007" y="634.8799999999999" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zTJ-ibRRX8hSOmWthj6w-9" value="......" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1007" y="682.3799999999999" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
